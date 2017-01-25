@@ -1,0 +1,12 @@
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\TestACS.dll.config
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\TestACS.dll
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\TestACS.pdb
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\obj\Debug\TestACS.csprojResolveAssemblyReference.cache
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\obj\Debug\TestACS.dll
+c:\users\satya-new\documents\visual studio 2013\Projects\ACSSampleApp\TestACS\obj\Debug\TestACS.pdb
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\DataLayer.dll
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\EntityFramework.dll
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\DataLayer.pdb
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\EntityFramework.xml
+c:\Users\Satya-New\Documents\Visual Studio 2013\Projects\ACSSampleApp\TestACS\bin\Debug\EntityFramework.SqlServer.xml

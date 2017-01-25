@@ -1,0 +1,10 @@
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\DataLayer.dll.config
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\DataLayer.dll
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\EntityFramework.dll
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\EntityFramework.xml
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\obj\Release\DataLayer.dll
+C:\Users\abhirup\Desktop\Docker\ACSSampleApp\DataLayer\obj\Release\DataLayer.pdb
